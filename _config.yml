@@ -1,0 +1,28 @@
+name: Mika Vanhanen
+favicon: null
+layout_spectrum: 0.21154722082428634
+typography_spectrum: 0.5855750592891127
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.20314098009839654
+  lightness: 0.145229002693668
+  saturation: 0.6232531862333417
+  rhythmicContrast: 0.6007438045926392
+purpose: []
