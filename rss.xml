@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mika Vanhanen]]></title>
         <description><![CDATA[Mika Vanhanen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mika-vanhanen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 05:37:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 05:41:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mika-vanhanen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f183cd5c-b0bb-4c6b-9b2a-17ea11ee41c4.jpg">]]></description>
+            <link>https://thegrid.ai/mika-vanhanen/74bc8f00-6331-4112-8d55-e4148b201a2a/index.html</link>
+            <guid isPermaLink="false">74bc8f00-6331-4112-8d55-e4148b201a2a</guid>
+            <pubDate>Tue, 19 Jan 2016 05:40:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7f44eac-5425-43cb-a19b-c7b213ad8c34.jpg">]]></description>
-            <link>undefinedbaf67c90-538e-4f59-86ad-cea2405d33ba/index.html</link>
+            <link>https://thegrid.ai/mika-vanhanen/baf67c90-538e-4f59-86ad-cea2405d33ba/index.html</link>
             <guid isPermaLink="false">baf67c90-538e-4f59-86ad-cea2405d33ba</guid>
             <pubDate>Tue, 19 Jan 2016 05:37:20 GMT</pubDate>
         </item>
