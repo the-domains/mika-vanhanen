@@ -1,7 +1,7 @@
 name: Mika Vanhanen
 favicon: null
-layout_spectrum: 0.21154722082428634
-typography_spectrum: 0.5855750592891127
+layout_spectrum: 0.21759
+typography_spectrum: 0.46971
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#070709'
+    - '#6f6559'
+    - '#2f3930'
+    - '#99bae5'
   brandStrength: 0.20314098009839654
   lightness: 0.145229002693668
   saturation: 0.6232531862333417
